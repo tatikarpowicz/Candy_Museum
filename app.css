@@ -16,3 +16,16 @@ body {
     font-size: 1.5rem;
     font-weight: 100;
 }
+#headings span {
+color: #EA1C2C;
+}
+#headings h1 {
+    font-weight: 100;
+    font-size: 3rem;
+}
+@media (max-width: 1200px) {
+    #headings h1 {
+        font-weight: 100;
+        font-size: 2rem;
+    }
+}
