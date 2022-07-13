@@ -44,3 +44,7 @@ color: #EA1C2C;
 .content {
     margin-top: 100px;
 }
+.navbar.scrolled {
+    background: #f498b8;
+transition: background 300ms;
+}
